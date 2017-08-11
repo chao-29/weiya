@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>2.0.4</key>
+	<array>
+		<string>优化界面，增加报道历史界面</string>
+		<string>增加推送功能</string>
+	</array>
+</dict>
+</plist>
