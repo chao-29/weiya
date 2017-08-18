@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>2.0.5</key>
+	<key>2.0.6</key>
 	<array>
 		<string>细分验证结果</string>
 		<string>优化验证时间</string>
